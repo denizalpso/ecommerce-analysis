@@ -11,8 +11,8 @@ Bu projede [Kaggle'dan alınan](https://www.kaggle.com/datasets/carrie1/ecommerc
 
 ## Kullanılan Teknolojiler:
 - Python
-- Pandas
 - Matplotlib
+- Pandas
 
 ## Görseller:
 `/visuals` klasöründe örnek grafikler yer alır.
